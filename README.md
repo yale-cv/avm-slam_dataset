@@ -1,5 +1,3 @@
-  # AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird’s Eye View for Automated Valet Parking
-
 This is the dataset website for our paper "[AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird’s Eye View for Automated Valet Parking]()".
 
 
