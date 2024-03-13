@@ -5,7 +5,7 @@ This is the dataset website for our paper "[AVM-SLAM: Semantic Visual SLAM with 
 
 ## AVM-SLAM Dataset
 
-![Dateset Infomation](https://github.com/yale-cv/avm-slam_dataset/blob/main/img/information.png)
+![Dateset Infomation](img/information.png)
 
 To validate the proposed AVM-SLAM system, tests were conducted in a 220m×110m underground garage with over 430 parking spots using a test vehicle equipped with four surround-view fisheye cameras, four wheel encoders, and an IMU, all synchronized and calibrated offline.
 
