@@ -1,4 +1,4 @@
-This is the dataset website for our paper "[AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird’s Eye View for Automated Valet Parking]()".
+This is the dataset website for our paper "[AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird’s Eye View for Automated Valet Parking](https://arxiv.org/abs/2309.08180)" (Accepted by IROS 2024).
 
 
 ## AVM-SLAM Dataset
@@ -13,6 +13,9 @@ The dataset encompasses:
 - Four sets of wheel encoder data
 - One IMU dataset
 
-This dataset will be beneficial for further research in SLAM, especially for autonomous vehicle localization in underground garages. For access to the dataset, please contact the authors for details.
+This dataset will be beneficial for further research in SLAM, especially for autonomous vehicle localization in underground garages. 
 
 This dataset is only for academeic use under the GNU General Public License Version 3 (GPLv3). For commercial purposes, please contact the authors for details.
+
+[Link of AVM-SLAM_Dataset](https://pan.baidu.com/s/1Pt_nrTBDTVunYIGL4snMMg)
+(pw:0382)
